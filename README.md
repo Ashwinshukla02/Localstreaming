@@ -1,6 +1,6 @@
-# 🎥 Katyayan Video Streaming Website
+# 🎥 Local streaming Website
 
-This is a simple *video streaming web application* built using *AWS Free Tier services. It allows students of **Katyayan Classes* to watch educational videos using a secure and scalable delivery system powered by Amazon Web Services.
+This is a simple *video streaming web application* built using *AWS Free Tier services. It allows students  to watch educational videos using a secure and scalable delivery system powered by Amazon Web Services.
 
 
 > (This CloudFront URL is mapped to an S3 bucket storing the video file.)
